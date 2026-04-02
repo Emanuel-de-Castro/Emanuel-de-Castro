@@ -1,5 +1,6 @@
-👋 Olá!
-Sou um desenvolvedor Python em início de carreira, concluindo a graduação em Ciência da Computação. Tenho foco em backend com Python, além de experiência prévia em suporte técnico.
+#👋 Olá!
+
+Sou desenvolvedor Python em início de carreira, concluindo a graduação em Ciência da Computação. Tenho foco em backend com Python, além de experiência prévia em suporte técnico.
 
 🔧 Trabalho em projetos pessoais que envolvem Landing Page, APIs REST e automação, aplicando boas práticas de código e versionamento com Git.
 
