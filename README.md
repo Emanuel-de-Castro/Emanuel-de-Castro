@@ -1,4 +1,4 @@
-#👋 Olá!
+  👋 Olá!
 
 Sou desenvolvedor Python em início de carreira, concluindo a graduação em Ciência da Computação. Tenho foco em backend com Python, além de experiência prévia em suporte técnico.
 
@@ -9,5 +9,6 @@ Sou desenvolvedor Python em início de carreira, concluindo a graduação em Ci�
 🚀 Busco oportunidades como desenvolvedor júnior ou estagiário para aplicar e expandir meus conhecimentos em ambiente profissional.
 
 📍 Belo Horizonte, MG
-✉️ emanueldcs@outlook.com | linkedin.com/in/emanuel-de-castro/
+
+✉️linkedin.com/in/emanuel-de-castro/
 
