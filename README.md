@@ -2,13 +2,11 @@
 
 Sou desenvolvedor Full-Stack em início de carreira, concluindo a graduação em Ciência da Computação. Tenho foco em backend com Python, além de experiência prévia em suporte técnico.
 
-🔧 Trabalho em projetos pessoais que envolvem Landing Page, APIs REST e automação, aplicando boas práticas de código e versionamento com Git.
-
-🧠 Interesso-me por otimização de código e boas práticas de desenvolvimento..
+🔧 Trabalho em projetos que envolvem APIs REST , automação e Landing Page, aplicando boas práticas de código e versionamento com Git.
 
 🚀 Busco oportunidades como desenvolvedor júnior ou estagiário para aplicar e expandir meus conhecimentos em ambiente profissional.
 
-📍 Belo Horizonte, MG
 
+📍 Belo Horizonte, MG
 ✉️linkedin.com/in/emanuel-de-castro/
 
