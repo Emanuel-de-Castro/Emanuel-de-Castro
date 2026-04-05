@@ -8,5 +8,6 @@ Sou desenvolvedor Full-Stack em início de carreira, concluindo a graduação em
 
 
 📍 Belo Horizonte, MG
+
 ✉️linkedin.com/in/emanuel-de-castro/
 
