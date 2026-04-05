@@ -7,6 +7,8 @@ Sou desenvolvedor Full-Stack em início de carreira, concluindo a graduação em
 🚀 Busco oportunidades como desenvolvedor júnior ou estagiário para aplicar e expandir meus conhecimentos em ambiente profissional.
 
 
+
+
 📍 Belo Horizonte, MG
 
 ✉️linkedin.com/in/emanuel-de-castro/
