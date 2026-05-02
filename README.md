@@ -12,7 +12,7 @@ Sou desenvolvedor Full-Stack em início de carreira, concluindo a graduação em
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-302A2B?style=flat)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-302A2B?style=for-the-badge&logo=apache&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql)
